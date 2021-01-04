@@ -1,0 +1,2 @@
+CTRL+F1 to start and stop recording
+SHIFT+F1 to start and stop replay

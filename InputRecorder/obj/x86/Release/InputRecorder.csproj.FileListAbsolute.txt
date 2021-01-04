@@ -1,0 +1,8 @@
+C:\Users\Acer\documents\visual studio 2010\Projects\InputRecorder\InputRecorder\bin\Release\InputRecorder.exe
+C:\Users\Acer\documents\visual studio 2010\Projects\InputRecorder\InputRecorder\bin\Release\InputRecorder.pdb
+C:\Users\Acer\documents\visual studio 2010\Projects\InputRecorder\InputRecorder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2010\Projects\InputRecorder\InputRecorder\obj\x86\Release\InputRecorder.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2010\Projects\InputRecorder\InputRecorder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Acer\documents\visual studio 2010\Projects\InputRecorder\InputRecorder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Acer\documents\visual studio 2010\Projects\InputRecorder\InputRecorder\obj\x86\Release\InputRecorder.exe
+C:\Users\Acer\documents\visual studio 2010\Projects\InputRecorder\InputRecorder\obj\x86\Release\InputRecorder.pdb
